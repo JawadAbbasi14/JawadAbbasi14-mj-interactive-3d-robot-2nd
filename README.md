@@ -1,2 +1,14 @@
-# JawadAbbasi14-mj-interactive-3d-robot-2nd
-It’s an evolution. Powered by ultra-responsive 3D, smarter AI, and cinematic storytelling, this version takes immersion to the next level. Face the unknown. Choose your path. Watch your choices reshape the world — in real time. Gemini AI + Imagen 3.0 + Spline = Futuristic chaos under your control
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
